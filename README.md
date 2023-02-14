@@ -1,0 +1,2 @@
+# visuali
+visualizaciones faltantes
