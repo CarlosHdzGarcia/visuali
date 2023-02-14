@@ -51,8 +51,8 @@ let timeinfinite = setInterval(function() {
 
     setTimeout(function() {
 
-        let deletecamp = document.getElementById('camDentro');
-        document.getElementById('marker').removeChild(deletecamp);
+        let delMov = document.getElementById('movUp');
+        document.getElementById('mul').removeChild(delMov);
 
         let downmov = document.createElement('a-entity');
         downmov.setAttribute('id', 'movdown');
